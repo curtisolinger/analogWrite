@@ -11,5 +11,7 @@ void loop() {
   // analogWrite controls the PWM (pulse width modulation) function for pin which changes the LED's brightness.
   // The first argument is the pin number and the second is a value between 0 and 255.
   // This second number represents the duty cycle. A value of 127 cooresponds to a 50% duty cycle. 
-  analogWrite(3, 255);
+  analogWrite(3, 127);
 }
+
+// End of program
