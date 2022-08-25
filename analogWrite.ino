@@ -13,5 +13,3 @@ void loop() {
   // This second number represents the duty cycle. A value of 127 cooresponds to a 50% duty cycle. 
   analogWrite(3, 127);
 }
-
-// End of program
